@@ -1,0 +1,26 @@
+.firsrtRow-images {
+    display: flex;
+    overflow-x: scroll;
+} 
+
+.firsrtRow-images img{
+    height: 231px;
+    width: 300px;
+    margin-left: 20px;
+}
+
+.row-header h1 {
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}    
+
+.isSmall {
+    height: 120px !important;
+    width: 226px !important;
+    margin-top: 20px;
+    cursor: pointer;
+    scale: 1;
+}
+
+
